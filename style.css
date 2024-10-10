@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: aquamarine;
+    margin: 0;
+    padding: 30px;    
+}
+
+h1 {
+    color: rgb(red, green, blue);
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    color: rgb(red, green, blue);
+    margin: 10px 0;
+}
+
+button {
+    background-color: darkcyan;
+    color:black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 60px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkred;
+}
